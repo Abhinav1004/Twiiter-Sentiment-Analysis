@@ -2,7 +2,8 @@
 
 This script can tell you the sentiments of people regarding to any events happening in the world by analyzing tweets related to that event. It will search for tweets about any topic and analyze each tweet to see how positive or negative it's emotion is.
 
-![alt text](https://drive.google.com/file/d/1EscAal2658IOE-65I71NaqcQvmBs-9io/view?usp=sharing)
+![donal_trump](https://user-images.githubusercontent.com/24820856/41902687-ab25c3b6-7951-11e8-903d-2e28809c5d8a.png)
+
 
 
 ## Getting Started
